@@ -9,7 +9,6 @@ marix-shiv/marix-shiv is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ## :globe_with_meridians: Socials:
-<br />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 [![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/your_username/)](https://www.instagram.com/shiv_shankar_951/)
