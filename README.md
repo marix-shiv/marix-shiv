@@ -8,8 +8,8 @@
 marix-shiv/marix-shiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=globe)](https://www.example.com)
----
+#Socials
+<br />
 
 [![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/your_username/)](https://www.instagram.com/shiv_shankar_951/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/your_username)
