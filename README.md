@@ -8,8 +8,8 @@
 marix-shiv/marix-shiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- :globe_with_meridians: --> ## Socials:
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png" width="24" height="24" style="vertical-align: middle"> Socials
+## :globe_with_meridians: Socials
+
 
 <br />
 
