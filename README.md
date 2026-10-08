@@ -48,7 +48,7 @@ My engineering journey began in **full-stack development**, and over time I shif
 
 ## 🚀 Selected engineering work
 
-### 🎯 RAKSHAK — Vision-based robotic target tracking
+### 🎯 Vision-based robotic target tracking
 
 Developed elements of a high-resolution zoom-camera tracking architecture, including **prediction-based target following** and **radar/vision integration**. Evaluated single-camera, stereo-depth, and multi-camera approaches, and tested tracking at distances of up to **1 km**.
 
