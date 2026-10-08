@@ -1,174 +1,99 @@
-<h1 align="center">Hey there! 👋 I'm Shiv Shankar Rao</h1>
+<div align="center">
 
-<h3 align="center">
-  Robotics Software Engineer | Autonomous Systems | Computer Vision
-</h3>
+# Hey, I'm Shiv Shankar Rao 👋
 
-<p align="center">
-  <i>Building intelligent systems that perceive, navigate, and interact with the physical world.</i>
-</p>
+### Lead AI Robotics Software Engineer
 
-<p align="center">
-  <a href="https://github.com/marix-shiv">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shiv-shankar-rao-a70463248">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shivshankarrao696@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+**Computer Vision · Embedded AI · Autonomous Systems · Real-Time Robotics**
+
+*From pixels and algorithms to intelligent machines operating in the real world.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-111827?style=flat-square&logo=vercel&logoColor=white)](https://shivshankarportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-shankar-rao-a70463248)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shivshankarrao696@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About me
 
-I'm a **Robotics Software Engineer** passionate about developing
-intelligent robotic systems and solving real-world engineering problems.
+I'm a **Lead AI Robotics Software Engineer at Bhairav Robotics Private Limited**, working on the design, development, and deployment of intelligent robotic systems—from early prototypes to real-world testing.
 
-My journey began with web development, exploring full-stack technologies
-and software engineering. Over time, my interests evolved toward robotics,
-autonomous navigation, embedded systems, and computer vision.
+My work sits where **AI perception, embedded computing, robot control, and systems engineering** meet. I build real-time vision pipelines, integrate sensors and actuators, develop tracking and control software, and help coordinate work across software, electronics, mechanical, and control engineering teams.
 
-Today, I work at the intersection of **software, hardware, perception,
-and control**, transforming algorithms into systems that operate
-in the physical world.
+My engineering journey began in **full-stack development**, and over time I shifted toward the challenges of software that has to interact with the physical world: sensor noise, timing constraints, hardware limitations, and unpredictable environments.
 
-- 🤖 Working on **autonomous ground vehicles and robotic systems**
-- 🧭 Exploring **autonomous navigation, path planning, and sensor fusion**
-- 👁️ Developing **computer vision and perception pipelines**
-- ⚙️ Working with **motor controllers, embedded systems, and robot control**
-- 🦾 Learning **robot kinematics, inverse kinematics, and motion planning**
-- 🧠 Interested in **robotics algorithms, optimization, and intelligent autonomy**
-- 🌱 Constantly learning, experimenting, and building
+> I'm most interested in making systems work reliably beyond the demo—in real conditions, on real hardware.
 
-> I enjoy understanding not just how something works,
-> but why it works.
+## ⚡ Engineering highlights
 
----
+- **5 → 30 FPS:** Improved an approximately 1080p vision-processing pipeline using GPU acceleration and CUDA-enabled OpenCV.
+- **200 Hz control:** Developed a C++ control architecture for robotic exoskeleton assistance, with motion prediction around **5 ms**.
+- **Up to 1 km tested:** Worked on a camera-based robotic target-tracking platform with prediction-based tracking and radar integration.
+- **Cross-functional leadership:** Coordinated a **6-member multidisciplinary team** working across software, hardware, electronics, mechanical, and control domains.
 
-## 🛠️ Tech Stack
+*Figures above describe specific development and test results, not universal system specifications.*
 
-### 💻 Programming & Development
+## 🛠️ What I work with
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+| Domain | Tools & technologies |
+| --- | --- |
+| **Programming & systems** | C++, Python, C, Go, Linux, Git, Docker, multithreading, multiprocessing |
+| **AI & computer vision** | OpenCV, PyTorch, YOLO, CNNs, transformers, ONNX, TensorRT, CUDA |
+| **Robotics & autonomy** | ROS 2, Nav2, Gazebo, NVIDIA Isaac Sim, robot kinematics, sensor integration |
+| **Embedded computing** | NVIDIA Jetson, Raspberry Pi, microcontrollers, real-time control |
+| **Sensors & communication** | Stereo vision, LiDAR, IMU, encoders, force sensors, radar, UART, I²C, SPI, TCP/IP, UDP, RTSP |
+| **Web development foundations** | React, Next.js, Node.js, Express, JavaScript, MySQL |
 
-### 🤖 Robotics & Autonomous Systems
+## 🚀 Selected engineering work
 
-![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge)
-![Nav2](https://img.shields.io/badge/Nav2-0088CC?style=for-the-badge)
-![PX4](https://img.shields.io/badge/PX4-111111?style=for-the-badge)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-1792D4?style=for-the-badge)
-![MAVLink](https://img.shields.io/badge/MAVLink-555555?style=for-the-badge)
+### 🎯 RAKSHAK — Vision-based robotic target tracking
 
-### 👁️ Computer Vision & Perception
+Developed elements of a high-resolution zoom-camera tracking architecture, including **prediction-based target following** and **radar/vision integration**. Evaluated single-camera, stereo-depth, and multi-camera approaches, and tested tracking at distances of up to **1 km**.
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Focus:** computer vision · target tracking · sensor integration · edge deployment
 
-### 🔧 Hardware & Embedded Systems
+### 👁️ GPU-accelerated perception pipeline
 
-![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Teensy](https://img.shields.io/badge/Teensy-222222?style=for-the-badge)
-![VESC](https://img.shields.io/badge/VESC-Motor_Control-blue?style=for-the-badge)
+Built and optimized real-time **1080p computer vision pipelines** for edge AI platforms. Used CUDA-enabled OpenCV and GPU processing to improve performance from approximately **5 FPS to 30 FPS**, with experience deploying or working with PyTorch, ONNX, TensorRT, and YOLO.
 
-### 🌐 Networking & Streaming
+**Focus:** performance optimization · embedded AI · GPU acceleration
 
-![GStreamer](https://img.shields.io/badge/GStreamer-FF3131?style=for-the-badge)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005C97?style=for-the-badge)
-![UDP](https://img.shields.io/badge/UDP-267DAB?style=for-the-badge)
+### 🦾 Intelligent exoskeleton assistance
 
-### 🌍 Web Development Background
+Worked on human-motion estimation and robotic assistance using **mathematical models and neural-network prediction**. Developed a **200 Hz C++ control architecture**, integrating IMUs, encoders, force sensors, and magnetometers.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Focus:** real-time control · wearable robotics · sensor integration
 
----
+### 🧭 Autonomous navigation and robotic systems
 
-## 🚀 Areas I'm Working On
+Working with **ROS 2, Nav2, LiDAR, stereo cameras, semantic segmentation, costmaps, and obstacle-avoidance systems** for autonomous ground vehicles, with a particular interest in robust perception and navigation in off-road environments.
 
-### 🧭 Autonomous Navigation
-- ROS 2 Navigation Stack (Nav2)
-- LiDAR and stereo-camera perception
-- Local and global costmaps
-- Obstacle detection and avoidance
-- Localization and coordinate transformations
-- Multi-sensor integration
+**Focus:** autonomous navigation · perception · sensor fusion · field robotics
 
-### 👁️ Computer Vision
-- Object detection and tracking
-- Semantic segmentation
-- Depth estimation and 3D perception
-- RGB and thermal imaging
-- Real-time camera processing
+*Some work is proprietary; public code and demonstrations will be linked where available.*
 
-### ⚙️ Robot Control
-- BLDC motor control
-- Robotic actuator integration
-- Forward and inverse kinematics
-- Jacobian-based control
-- Trajectory generation and motion planning
+## 📚 What I'm exploring
 
-### 🖥️ Robotics Infrastructure
-- NVIDIA Jetson deployment
-- ROS 2 communication
-- Docker-based development
-- Real-time video streaming
-- Linux networking and system integration
+I'm continuing to deepen my understanding of **robot kinematics, numerical inverse kinematics, Jacobian-based control, motion planning, and resilient autonomy**. I also enjoy optimizing real-time software and understanding the tradeoffs between algorithms, sensing, computation, and hardware.
 
----
+## 🌱 Before robotics
 
-## 📚 Currently Learning
+My software journey started with full-stack applications and grew through frontend development, freelance projects, and AI experimentation. That background still influences how I design and build complete systems.
 
-- 🦾 Advanced robot kinematics and numerical inverse kinematics
-- 📐 Jacobian-based motion control and trajectory planning
-- 🧭 Advanced autonomous navigation and sensor fusion
-- 🧠 Optimization and algorithms for robotic systems
-- ⚡ Real-time and reliable robotic software architectures
+I hold an **MCA from Adikavi Nannaya University (2024)**.
 
----
+Explore earlier development projects on my [portfolio](https://shivshankarportfolio.vercel.app/).
 
-## 📊 GitHub Statistics
+## 🤝 Let's connect
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=marix-shiv&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marix-shiv&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
+I'm always open to thoughtful conversations about **robotics, computer vision, embedded AI, autonomous systems, and engineering challenges**.
 
----
+**[Portfolio](https://shivshankarportfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shiv-shankar-rao-a70463248) · [Email](mailto:shivshankarrao696@gmail.com)**
 
-## 🤝 Let's Connect
+<div align="center">
 
-I'm always interested in connecting with engineers, researchers,
-and developers working on robotics, autonomous systems,
-computer vision, and challenging engineering problems.
+*Keep building. Keep learning. Make it work in the real world.*
 
-📫 **Email:** [shivshankarrao696@gmail.com](mailto:shivshankarrao696@gmail.com)
-
-💼 **LinkedIn:** [Shiv Shankar Rao](https://www.linkedin.com/in/shiv-shankar-rao-a70463248)
-
-🐙 **GitHub:** [marix-shiv](https://github.com/marix-shiv)
-
----
-
-<p align="center">
-  <i>Keep learning. Keep building. Keep exploring.</i>
-</p>
+</div>
