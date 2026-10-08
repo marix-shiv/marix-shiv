@@ -1,36 +1,174 @@
-- 👋 Hi, I’m @marix-shiv
-- 👀 I’m interested in Growing myself everyday
-- 🌱 I’m currently learning Full stack development
-- 💞️ I’m looking to collaborate with the greatest tech companies
-- 📫 How to reach me ... you can simply drop a mail in my gmail account i.e -> shivshankarrao696@gmail.com
+<h1 align="center">Hey there! 👋 I'm Shiv Shankar Rao</h1>
 
-<!---
-marix-shiv/marix-shiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">
+  Robotics Software Engineer | Autonomous Systems | Computer Vision
+</h3>
 
+<p align="center">
+  <i>Building intelligent systems that perceive, navigate, and interact with the physical world.</i>
+</p>
 
+<p align="center">
+  <a href="https://github.com/marix-shiv">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shiv-shankar-rao-a70463248">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shivshankarrao696@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-## :globe_with_meridians: Socials:
+---
 
-[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/your_username/)](https://www.instagram.com/shiv_shankar_951/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/marix-shiv)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shiv-shankar-rao-a70463248)
+## 👨‍💻 About Me
 
-## :computer: Tech Stack
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+I'm a **Robotics Software Engineer** passionate about developing
+intelligent robotic systems and solving real-world engineering problems.
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+My journey began with web development, exploring full-stack technologies
+and software engineering. Over time, my interests evolved toward robotics,
+autonomous navigation, embedded systems, and computer vision.
 
+Today, I work at the intersection of **software, hardware, perception,
+and control**, transforming algorithms into systems that operate
+in the physical world.
 
+- 🤖 Working on **autonomous ground vehicles and robotic systems**
+- 🧭 Exploring **autonomous navigation, path planning, and sensor fusion**
+- 👁️ Developing **computer vision and perception pipelines**
+- ⚙️ Working with **motor controllers, embedded systems, and robot control**
+- 🦾 Learning **robot kinematics, inverse kinematics, and motion planning**
+- 🧠 Interested in **robotics algorithms, optimization, and intelligent autonomy**
+- 🌱 Constantly learning, experimenting, and building
+
+> I enjoy understanding not just how something works,
+> but why it works.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🤖 Robotics & Autonomous Systems
+
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge)
+![Nav2](https://img.shields.io/badge/Nav2-0088CC?style=for-the-badge)
+![PX4](https://img.shields.io/badge/PX4-111111?style=for-the-badge)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-1792D4?style=for-the-badge)
+![MAVLink](https://img.shields.io/badge/MAVLink-555555?style=for-the-badge)
+
+### 👁️ Computer Vision & Perception
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🔧 Hardware & Embedded Systems
+
+![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Teensy](https://img.shields.io/badge/Teensy-222222?style=for-the-badge)
+![VESC](https://img.shields.io/badge/VESC-Motor_Control-blue?style=for-the-badge)
+
+### 🌐 Networking & Streaming
+
+![GStreamer](https://img.shields.io/badge/GStreamer-FF3131?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005C97?style=for-the-badge)
+![UDP](https://img.shields.io/badge/UDP-267DAB?style=for-the-badge)
+
+### 🌍 Web Development Background
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Areas I'm Working On
+
+### 🧭 Autonomous Navigation
+- ROS 2 Navigation Stack (Nav2)
+- LiDAR and stereo-camera perception
+- Local and global costmaps
+- Obstacle detection and avoidance
+- Localization and coordinate transformations
+- Multi-sensor integration
+
+### 👁️ Computer Vision
+- Object detection and tracking
+- Semantic segmentation
+- Depth estimation and 3D perception
+- RGB and thermal imaging
+- Real-time camera processing
+
+### ⚙️ Robot Control
+- BLDC motor control
+- Robotic actuator integration
+- Forward and inverse kinematics
+- Jacobian-based control
+- Trajectory generation and motion planning
+
+### 🖥️ Robotics Infrastructure
+- NVIDIA Jetson deployment
+- ROS 2 communication
+- Docker-based development
+- Real-time video streaming
+- Linux networking and system integration
+
+---
+
+## 📚 Currently Learning
+
+- 🦾 Advanced robot kinematics and numerical inverse kinematics
+- 📐 Jacobian-based motion control and trajectory planning
+- 🧭 Advanced autonomous navigation and sensor fusion
+- 🧠 Optimization and algorithms for robotic systems
+- ⚡ Real-time and reliable robotic software architectures
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=marix-shiv&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marix-shiv&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with engineers, researchers,
+and developers working on robotics, autonomous systems,
+computer vision, and challenging engineering problems.
+
+📫 **Email:** [shivshankarrao696@gmail.com](mailto:shivshankarrao696@gmail.com)
+
+💼 **LinkedIn:** [Shiv Shankar Rao](https://www.linkedin.com/in/shiv-shankar-rao-a70463248)
+
+🐙 **GitHub:** [marix-shiv](https://github.com/marix-shiv)
+
+---
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep exploring.</i>
+</p>
